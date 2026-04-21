@@ -1,5 +1,4 @@
 # Hello-world
-This repository is for practicing the GitHub Flow.
 Hi, I’m Neeraj. I’m a self-taught Product Designer with around one year of experience, mainly in the healthcare domain.
 
 Currently, I’m working as a Product Design Intern at Tata 1mg, where I contribute to both design and QA, which helps me think more deeply about user experience and product quality.
